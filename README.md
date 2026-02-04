@@ -16,4 +16,4 @@ ATIVIDADE: https://drive.google.com/file/d/1G7pCgq-okASZ2clxly_HLTqB-WuamUNo/vie
 
 DISCIPLINA DE LABORATÓRIO DE HARDWARE
 
-LINK DO QUIZ: rachacuca.com.br/qr/198756/
+LINK DO QUIZ: https://rachacuca.com.br/qr/198756/
