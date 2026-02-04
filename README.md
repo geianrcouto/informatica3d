@@ -5,6 +5,7 @@ LINK DA ATIVIDADE: https://drive.google.com/drive/folders/1NSPXT0uoHIMvQuKQ4-DLq
 LINK PARA CADASTRO DOS CURSOS: https://e.huawei.com/en/talent/
 
 
+
 DISCIPLINA LABORATÓRIO DE SOFTWARE
 
 METODOLOGIAS DE PROJETO: https://drive.google.com/file/d/1XCJAXRmZ17yAXbRyjI1SVrRr5FHBd6F7/view
@@ -14,6 +15,8 @@ FASE DE UM PROJETO: https://drive.google.com/file/d/1rTqW02ieh7PfYugO6fweb-oUQYH
 PAINEL DE DESENVOLVIMENTO: https://drive.google.com/file/d/1ysVCheNhV-4_QU6n0t5hm94LxL8L2IcO/view
 
 ATIVIDADE: https://drive.google.com/file/d/1G7pCgq-okASZ2clxly_HLTqB-WuamUNo/view
+
+
 
 
 DISCIPLINA DE LABORATÓRIO DE HARDWARE
