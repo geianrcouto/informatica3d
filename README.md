@@ -2,6 +2,8 @@ DISCIPLINA PROJETO INTEGRADOR
 
 LINK DA ATIVIDADE: https://drive.google.com/drive/folders/1NSPXT0uoHIMvQuKQ4-DLq4xoKEFC5fnh?usp=sharing
 
+LINK PARA CADASTRO DOS CURSOS: https://e.huawei.com/en/talent/
+
 
 DISCIPLINA LABORATÓRIO DE SOFTWARE
 
