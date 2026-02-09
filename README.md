@@ -4,6 +4,8 @@ LINK DA ATIVIDADE: https://drive.google.com/drive/folders/1NSPXT0uoHIMvQuKQ4-DLq
 
 LINK PARA CADASTRO DOS CURSOS: https://e.huawei.com/en/talent/
 
+LINK DOS SLIDES DO CURSO: https://drive.google.com/drive/folders/1gocyCBM_tDBAH3TUKclw0kK4i2olV9S_?usp=sharing
+
 
 
 DISCIPLINA LABORATÓRIO DE SOFTWARE
